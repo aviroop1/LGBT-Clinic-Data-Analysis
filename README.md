@@ -12,8 +12,9 @@ The purpose of this project is derive valuable insights and provide Level A, Lev
 - SAS JMP (http://www.jmp.com/support/readme/jmp10.shtml)
 
 <h3> Methods Used </h3>
-- Data Cleaning
-- Data Analysis
-- Unsupervised learning
-- Clustering: Latent Class Analysis
-- Data Visualization
+
+- Data Cleaning 
+- Data Analysis 
+- Unsupervised learning 
+- Clustering: Latent Class Analysis 
+- Data Visualization 
