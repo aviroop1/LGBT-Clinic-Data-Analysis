@@ -15,6 +15,7 @@ The purpose of this project is derive valuable insights and provide Level A, Lev
 
 - Data Cleaning 
 - Data Analysis 
-- Unsupervised learning 
-- Clustering: Latent Class Analysis 
+- Unsupervised learning (Clustering: Latent Class Analysis)
+- Exploratory Data Analysis
+- Descriptive Statistics
 - Data Visualization 
