@@ -4,7 +4,7 @@
 This dataset contains a list of visitors to LGBT Healthcare clinic. The data was collected over a survey questionnaire.
 
 <h3> Objective </h3>
-The purpose of this project is derive valuable insights and provide Level A, Level B, Level C recommendations to optimize their operations and provide better patient care.
+The purpose of this project is to derive valuable insights and provide Level A, Level B, Level C recommendations to optimize their operations and provide better patient care.
 
 <h3> Installation Prerequisites </h3>
 
