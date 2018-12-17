@@ -1,4 +1,4 @@
-# LGBT Orange County Clinic Data Analysis
+# LGBT Clinic Data Analysis
 
 <h3> Description </h3>
 This dataset contains a list of visitors to LGBT Healthcare clinic. The data was collected over a survey questionnaire.
